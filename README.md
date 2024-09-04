@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="http://vanseggelen.net/">
-      <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Homepage"/>
+      <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=homepage&logoColor=white" alt="Portfolio"/>
     </a>
   </div>
 
@@ -25,7 +25,7 @@ I am Janne van Seggelen, I am a Software Engineer, mostly specialized in Mobile 
 - 🌱 I enjoy exploring and enhancing my skills in new challenges.
 - ⚡ In my free time, I enjoy working on my personal projects and paly video games with my friends.
 - 🐈‍⬛ I love cats!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Janne%20van%20Seggelen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvseg/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Janne%20van%20Seggelen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvseg/) or [![Linkedin Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vanseggelenjanne@gmail.com)
 
 ---
 
