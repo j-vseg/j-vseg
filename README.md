@@ -25,7 +25,7 @@ I am Janne van Seggelen, I am a Software Engineer, mostly specialized in Mobile 
 - 🌱 I enjoy exploring and enhancing my skills in new challenges.
 - ⚡ In my free time, I enjoy working on my personal projects and paly video games with my friends.
 - 🐈‍⬛ I love cats!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Janne%20van%20Seggelen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvseg/) or [![Linkedin Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vanseggelenjanne@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat)](https://www.linkedin.com/in/jvseg/) or [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vanseggelenjanne@gmail.com)
 
 ---
 
@@ -49,5 +49,5 @@ I am Janne van Seggelen, I am a Software Engineer, mostly specialized in Mobile 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=j-vseg&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-vseg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=j-vseg&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-vseg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
