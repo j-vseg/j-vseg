@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻: About Me :
 I am Janne van Seggelen, I am a Software Engineer, mostly specialized in Mobile and Frontend development.
 - 🌱 I enjoy exploring and enhancing my skills in new challenges.
 - ⚡ In my free time, I enjoy working on my personal projects and paly video games with my friends.
@@ -29,7 +29,7 @@ I am Janne van Seggelen, I am a Software Engineer, mostly specialized in Mobile 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,6 +48,11 @@ I am Janne van Seggelen, I am a Software Engineer, mostly specialized in Mobile 
 
 ---
 
-### :fire: My Stats :
+### 🔥: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=j-vseg&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-vseg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=j-vseg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### ✨: Special Callouts :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j-vseg&repo=portfolio&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j-vseg&repo=piwo&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
